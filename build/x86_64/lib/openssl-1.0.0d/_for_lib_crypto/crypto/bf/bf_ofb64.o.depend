@@ -1,0 +1,6 @@
+x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/bf/bf_ofb64.o \
+ x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/bf/bf_ofb64.o.depend: \
+ ../lib/openssl-1.0.0d/crypto/bf/bf_ofb64.c ../include/deputy/nodeputy.h \
+ ../include/openssl/blowfish.h ../include/openssl/e_os2.h \
+ ../include/openssl/opensslconf.h \
+ ../lib/openssl-1.0.0d/crypto/bf/bf_locl.h

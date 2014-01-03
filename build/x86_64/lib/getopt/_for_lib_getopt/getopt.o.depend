@@ -1,0 +1,25 @@
+x86_64/lib/getopt/_for_lib_getopt/getopt.o \
+ x86_64/lib/getopt/_for_lib_getopt/getopt.o.depend: \
+ ../lib/getopt/getopt.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/stdio.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h ../include/sys/types.h \
+ ../include/sys/cdefs.h ../include/barrelfish/types.h \
+ ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../include/barrelfish/static_assert.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h ../include/c/stdbool.h \
+ ../lib/newlib/newlib/libc/include/assert.h ../include/limits.h \
+ ../include/arch/x86_64/machine/_limits.h ../include/getopt/getopt.h

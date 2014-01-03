@@ -1,0 +1,4 @@
+x86_64/lib/barrelfish/_for_lib_barrelfish/arch/x86_64/entry.o \
+ x86_64/lib/barrelfish/_for_lib_barrelfish/arch/x86_64/entry.o.depend: \
+ ../lib/barrelfish/arch/x86_64/entry.S ../include/deputy/nodeputy.h \
+ ../include/barrelfish/dispatch.h x86_64/include/asmoffsets.h

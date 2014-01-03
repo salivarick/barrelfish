@@ -1,0 +1,21 @@
+x86_64/lib/elf/_for_lib_elf_kernel/elf.o \
+ x86_64/lib/elf/_for_lib_elf_kernel/elf.o.depend: ../lib/elf/elf.c \
+ ../include/deputy/nodeputy.h ../include/c/stddef.h \
+ ../lib/newlib/newlib/libc/include/stdint.h \
+ ../include/arch/x86_64/barrelfish_kpi/paging_arch.h \
+ ../include/target/x86_64/barrelfish_kpi/paging_target.h \
+ ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../include/barrelfish/static_assert.h x86_64/include/errors/errno.h \
+ ../include/c/stdbool.h ../include/elf/elf.h ../include/sys/cdefs.h

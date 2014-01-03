@@ -1,0 +1,11 @@
+x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/camellia/cmll_ecb.o \
+ x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/camellia/cmll_ecb.o.depend: \
+ ../lib/openssl-1.0.0d/crypto/camellia/cmll_ecb.c \
+ ../include/deputy/nodeputy.h ../lib/newlib/newlib/libc/include/assert.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../include/openssl/camellia.h ../include/openssl/opensslconf.h \
+ ../include/c/stddef.h ../lib/openssl-1.0.0d/crypto/camellia/cmll_locl.h

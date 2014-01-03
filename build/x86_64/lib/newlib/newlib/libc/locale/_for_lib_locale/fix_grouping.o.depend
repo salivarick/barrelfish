@@ -1,0 +1,11 @@
+x86_64/lib/newlib/newlib/libc/locale/_for_lib_locale/fix_grouping.o \
+ x86_64/lib/newlib/newlib/libc/locale/_for_lib_locale/fix_grouping.o.depend: \
+ ../lib/newlib/newlib/libc/locale/fix_grouping.c \
+ ../include/deputy/nodeputy.h ../include/sys/cdefs.h \
+ ../lib/newlib/newlib/libc/include/ctype.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/limits.h \
+ ../include/arch/x86_64/machine/_limits.h ../include/c/stddef.h

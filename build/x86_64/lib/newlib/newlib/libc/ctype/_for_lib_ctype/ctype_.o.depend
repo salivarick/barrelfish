@@ -1,0 +1,9 @@
+x86_64/lib/newlib/newlib/libc/ctype/_for_lib_ctype/ctype_.o \
+ x86_64/lib/newlib/newlib/libc/ctype/_for_lib_ctype/ctype_.o.depend: \
+ ../lib/newlib/newlib/libc/ctype/ctype_.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/ctype.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h

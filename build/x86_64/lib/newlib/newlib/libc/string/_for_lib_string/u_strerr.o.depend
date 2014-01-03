@@ -1,0 +1,8 @@
+x86_64/lib/newlib/newlib/libc/string/_for_lib_string/u_strerr.o \
+ x86_64/lib/newlib/newlib/libc/string/_for_lib_string/u_strerr.o.depend: \
+ ../lib/newlib/newlib/libc/string/u_strerr.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h

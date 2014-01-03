@@ -1,0 +1,4 @@
+x86_64/lib/newlib/newlib/libm/complex/_for_lib_complex/casinh.o \
+ x86_64/lib/newlib/newlib/libm/complex/_for_lib_complex/casinh.o.depend: \
+ ../lib/newlib/newlib/libm/complex/casinh.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/complex.h ../include/sys/cdefs.h

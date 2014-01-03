@@ -1,0 +1,35 @@
+x86_64/kernel/arch/x86/mcheck.o x86_64/kernel/arch/x86/mcheck.o.depend: \
+ ../kernel/arch/x86/mcheck.c ../include/deputy/nodeputy.h \
+ ../kernel/include/kernel.h ../lib/newlib/newlib/libc/include/assert.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/c/stddef.h \
+ ../lib/newlib/newlib/libc/include/stdio.h ../include/c/stdarg.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h ../include/sys/types.h \
+ ../include/sys/cdefs.h ../include/barrelfish/types.h \
+ ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../include/barrelfish/static_assert.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h ../include/c/stdbool.h \
+ ../include/barrelfish_kpi/cpu.h \
+ ../include/arch/x86_64/barrelfish_kpi/generic_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/eflags_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/asm_inlines_arch.h \
+ ../include/target/x86_64/barrelfish_kpi/registers_target.h \
+ ../include/arch/x86/barrelfish_kpi/asm_inlines_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/registers_arch.h \
+ x86_64/include/errors/errno.h ../kernel/include/arch/x86_64/offsets.h \
+ ../kernel/include/target/x86_64/offsets_target.h \
+ ../kernel/include/schedule.h ../kernel/include/arch/x86_64/x86.h \
+ ../kernel/include/arch/x86/x86.h \
+ ../include/arch/x86_64/barrelfish_kpi/cpu_arch.h \
+ ../kernel/include/arch/x86/mcheck.h x86_64/include/dev/ia32_dev.h \
+ ../include/mackerel/mackerel.h ../include/mackerel/io.h \
+ x86_64/include/dev/amd64_dev.h

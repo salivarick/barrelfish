@@ -1,0 +1,3 @@
+x86_64/usr/skb/eclipse_kernel/src/_for_lib_dummies/lib3.o \
+ x86_64/usr/skb/eclipse_kernel/src/_for_lib_dummies/lib3.o.depend: \
+ ../usr/skb/eclipse_kernel/src/lib3.c ../include/deputy/nodeputy.h

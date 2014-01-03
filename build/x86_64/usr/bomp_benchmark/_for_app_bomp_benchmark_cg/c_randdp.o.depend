@@ -1,0 +1,3 @@
+x86_64/usr/bomp_benchmark/_for_app_bomp_benchmark_cg/c_randdp.o \
+ x86_64/usr/bomp_benchmark/_for_app_bomp_benchmark_cg/c_randdp.o.depend: \
+ ../usr/bomp_benchmark/c_randdp.c ../include/deputy/nodeputy.h

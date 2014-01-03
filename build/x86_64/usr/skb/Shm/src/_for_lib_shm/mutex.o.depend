@@ -1,0 +1,4 @@
+x86_64/usr/skb/Shm/src/_for_lib_shm/mutex.o \
+ x86_64/usr/skb/Shm/src/_for_lib_shm/mutex.o.depend: \
+ ../usr/skb/Shm/src/mutex.c ../include/deputy/nodeputy.h \
+ ../usr/skb/Shm/src/config.h ../usr/skb/Shm/src/memman.h

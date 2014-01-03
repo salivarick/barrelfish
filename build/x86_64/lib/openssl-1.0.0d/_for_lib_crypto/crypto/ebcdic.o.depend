@@ -1,0 +1,4 @@
+x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/ebcdic.o \
+ x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/ebcdic.o.depend: \
+ ../lib/openssl-1.0.0d/crypto/ebcdic.c ../include/deputy/nodeputy.h \
+ ../include/openssl/e_os2.h ../include/openssl/opensslconf.h

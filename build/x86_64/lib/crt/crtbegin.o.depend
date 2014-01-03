@@ -1,0 +1,3 @@
+x86_64/lib/crt/crtbegin.o x86_64/lib/crt/crtbegin.o.depend: \
+ ../lib/crt/crtbegin.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/stdint.h

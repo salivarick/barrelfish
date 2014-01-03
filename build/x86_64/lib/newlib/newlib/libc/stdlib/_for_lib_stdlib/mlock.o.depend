@@ -1,0 +1,3 @@
+x86_64/lib/newlib/newlib/libc/stdlib/_for_lib_stdlib/mlock.o \
+ x86_64/lib/newlib/newlib/libc/stdlib/_for_lib_stdlib/mlock.o.depend: \
+ ../lib/newlib/newlib/libc/stdlib/mlock.c ../include/deputy/nodeputy.h

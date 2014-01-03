@@ -1,0 +1,6 @@
+x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/camellia/cmll_misc.o \
+ x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/camellia/cmll_misc.o.depend: \
+ ../lib/openssl-1.0.0d/crypto/camellia/cmll_misc.c \
+ ../include/deputy/nodeputy.h ../include/openssl/opensslv.h \
+ ../include/openssl/camellia.h ../include/openssl/opensslconf.h \
+ ../include/c/stddef.h ../lib/openssl-1.0.0d/crypto/camellia/cmll_locl.h

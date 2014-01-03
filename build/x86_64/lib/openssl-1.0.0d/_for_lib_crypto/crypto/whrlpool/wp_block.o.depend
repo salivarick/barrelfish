@@ -1,0 +1,18 @@
+x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/whrlpool/wp_block.o \
+ x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/whrlpool/wp_block.o.depend: \
+ ../lib/openssl-1.0.0d/crypto/whrlpool/wp_block.c \
+ ../include/deputy/nodeputy.h \
+ ../lib/openssl-1.0.0d/crypto/whrlpool/wp_locl.h \
+ ../include/openssl/whrlpool.h ../include/openssl/e_os2.h \
+ ../include/openssl/opensslconf.h ../include/c/stddef.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stdarg.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h

@@ -1,0 +1,3 @@
+x86_64/lib/newlib/newlib/libc/stdlib/_for_lib_stdlib_free/freer.o \
+ x86_64/lib/newlib/newlib/libc/stdlib/_for_lib_stdlib_free/freer.o.depend: \
+ ../lib/newlib/newlib/libc/stdlib/freer.c ../include/deputy/nodeputy.h

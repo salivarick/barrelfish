@@ -1,0 +1,4 @@
+x86_64/tools/elver/_for_elver/boot.o \
+ x86_64/tools/elver/_for_elver/boot.o.depend: ../tools/elver/boot.S \
+ ../include/deputy/nodeputy.h \
+ ../tools/elver/../../kernel/include/multiboot.h

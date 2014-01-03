@@ -1,0 +1,13 @@
+x86_64/lib/newlib/newlib/libc/string/_for_lib_string/wcsncasecmp.o \
+ x86_64/lib/newlib/newlib/libc/string/_for_lib_string/wcsncasecmp.o.depend: \
+ ../lib/newlib/newlib/libc/string/wcsncasecmp.c \
+ ../include/deputy/nodeputy.h ../lib/newlib/newlib/libc/include/wchar.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/wctype.h

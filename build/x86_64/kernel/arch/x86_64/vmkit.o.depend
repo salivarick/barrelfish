@@ -1,0 +1,53 @@
+x86_64/kernel/arch/x86_64/vmkit.o \
+ x86_64/kernel/arch/x86_64/vmkit.o.depend: ../kernel/arch/x86_64/vmkit.c \
+ ../include/deputy/nodeputy.h ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h \
+ ../kernel/include/kernel.h ../lib/newlib/newlib/libc/include/assert.h \
+ ../lib/newlib/newlib/libc/include/stdio.h ../include/sys/types.h \
+ ../include/sys/cdefs.h ../include/barrelfish/types.h \
+ ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../include/barrelfish/static_assert.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h ../include/c/stdbool.h \
+ ../include/barrelfish_kpi/cpu.h \
+ ../include/arch/x86_64/barrelfish_kpi/generic_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/eflags_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/asm_inlines_arch.h \
+ ../include/target/x86_64/barrelfish_kpi/registers_target.h \
+ ../include/arch/x86/barrelfish_kpi/asm_inlines_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/registers_arch.h \
+ x86_64/include/errors/errno.h ../kernel/include/arch/x86_64/offsets.h \
+ ../kernel/include/target/x86_64/offsets_target.h \
+ ../kernel/include/schedule.h \
+ ../kernel/include/arch/x86_64/paging_kernel_arch.h \
+ ../kernel/include/target/x86_64/paging_kernel_target.h \
+ ../kernel/include/capabilities.h \
+ ../include/barrelfish_kpi/capabilities.h \
+ x86_64/include/barrelfish_kpi/capbits.h ../include/mdb/mdb.h \
+ ../include/mdb/types.h ../kernel/include/paging_generic.h \
+ ../include/arch/x86_64/barrelfish_kpi/paging_arch.h \
+ ../include/target/x86_64/barrelfish_kpi/paging_target.h \
+ ../kernel/include/paging_kernel_helper.h \
+ ../kernel/include/arch/x86_64/vmkit.h \
+ ../kernel/include/arch/x86_64/x86.h ../kernel/include/arch/x86/x86.h \
+ ../include/arch/x86_64/barrelfish_kpi/cpu_arch.h \
+ ../kernel/include/dispatch.h \
+ ../include/arch/x86_64/barrelfish_kpi/dispatcher_shared_arch.h \
+ ../include/target/x86_64/barrelfish_kpi/dispatcher_shared_target.h \
+ ../include/barrelfish_kpi/dispatcher_shared.h \
+ ../include/barrelfish_kpi/dispatcher_handle.h \
+ ../kernel/include/arch/x86_64/misc.h ../kernel/include/arch/x86_64/irq.h \
+ ../kernel/include/exec.h ../include/barrelfish_kpi/vmkit.h \
+ x86_64/include/dev/amd_vmcb_dev.h ../include/mackerel/mackerel.h \
+ ../include/mackerel/io.h

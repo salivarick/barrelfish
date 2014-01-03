@@ -1,0 +1,12 @@
+x86_64/tools/lib/elf/elf64.o x86_64/tools/lib/elf/elf64.o.depend: \
+ ../lib/elf/elf64.c ../include/deputy/nodeputy.h ../include/oldc/assert.h \
+ ../include/oldc/stdio.h ../include/c/stddef.h ../include/c/stdarg.h \
+ ../include/oldc/stdint.h ../include/limits.h ../include/sys/cdefs.h \
+ ../include/arch/x86_32/machine/_limits.h \
+ ../include/arch/x86_32/arch/stdint.h ../include/oldc/string.h \
+ ../include/arch/x86_32/barrelfish_kpi/paging_arch.h \
+ ../include/target/x86_32/barrelfish_kpi/paging_target.h \
+ ../include/barrelfish_kpi/types.h ../include/oldc/inttypes.h \
+ ../include/arch/x86_32/arch/inttypes.h \
+ ../include/barrelfish/static_assert.h x86_64/include/errors/errno.h \
+ ../include/c/stdbool.h ../include/elf/elf.h

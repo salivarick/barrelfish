@@ -1,0 +1,4 @@
+x86_64/lib/newlib/newlib/libm/complex/_for_lib_complex/cacoshf.o \
+ x86_64/lib/newlib/newlib/libm/complex/_for_lib_complex/cacoshf.o.depend: \
+ ../lib/newlib/newlib/libm/complex/cacoshf.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/complex.h ../include/sys/cdefs.h

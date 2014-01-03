@@ -1,0 +1,3 @@
+x86_64/trace_definitions/trace_defs.o \
+ x86_64/trace_definitions/trace_defs.o.depend: \
+ x86_64/trace_definitions/trace_defs.c ../include/deputy/nodeputy.h

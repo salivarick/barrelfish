@@ -1,0 +1,3 @@
+x86_64/usr/skb/eclipse_kernel/src/_for_lib_dummies/dummy_wm.o \
+ x86_64/usr/skb/eclipse_kernel/src/_for_lib_dummies/dummy_wm.o.depend: \
+ ../usr/skb/eclipse_kernel/src/dummy_wm.c ../include/deputy/nodeputy.h

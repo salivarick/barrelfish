@@ -1,0 +1,3 @@
+x86_64/usr/openssh/src/_for_lib_ssh/dns.o \
+ x86_64/usr/openssh/src/_for_lib_ssh/dns.o.depend: \
+ ../usr/openssh/src/dns.c ../include/deputy/nodeputy.h

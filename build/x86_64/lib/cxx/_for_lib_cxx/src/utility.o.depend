@@ -1,0 +1,5 @@
+x86_64/lib/cxx/_for_lib_cxx/src/utility.o \
+ x86_64/lib/cxx/_for_lib_cxx/src/utility.o.depend: \
+ ../lib/cxx/src/utility.cpp ../include/deputy/nodeputy.h \
+ ../include/cxx/utility ../include/cxx/__config ../include/cxx/__tuple \
+ ../include/cxx/cstddef ../include/c/stddef.h ../include/cxx/type_traits

@@ -1,0 +1,15 @@
+x86_64/usr/bomp_benchmark/_for_app_bomp_benchmark_is/c_timers.o \
+ x86_64/usr/bomp_benchmark/_for_app_bomp_benchmark_is/c_timers.o.depend: \
+ ../usr/bomp_benchmark/c_timers.c ../include/deputy/nodeputy.h \
+ ../usr/bomp_benchmark/wtime.h ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/c/stddef.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stdarg.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h

@@ -1,0 +1,57 @@
+x86_64/lib/cxx/_for_lib_cxx/src/locale.o \
+ x86_64/lib/cxx/_for_lib_cxx/src/locale.o.depend: \
+ ../lib/cxx/src/locale.cpp ../include/deputy/nodeputy.h \
+ ../include/cxx/string ../include/cxx/__config ../include/cxx/iosfwd \
+ ../lib/newlib/newlib/libc/include/wchar.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../include/cxx/cstring ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h ../include/cxx/cstdio \
+ ../lib/newlib/newlib/libc/include/stdio.h ../include/sys/types.h \
+ ../include/sys/cdefs.h ../include/barrelfish/types.h \
+ ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../include/barrelfish/static_assert.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h ../include/cxx/cwchar \
+ ../include/cxx/cwctype ../include/cxx/cctype \
+ ../lib/newlib/newlib/libc/include/ctype.h \
+ ../lib/newlib/newlib/libc/include/wctype.h ../include/cxx/algorithm \
+ ../include/cxx/initializer_list ../include/cxx/cstddef \
+ ../include/cxx/type_traits ../include/cxx/utility ../include/cxx/__tuple \
+ ../include/cxx/memory ../include/cxx/typeinfo ../include/cxx/exception \
+ ../include/cxx/cstdint ../include/cxx/new ../include/cxx/limits \
+ ../include/cxx/iterator ../include/cxx/__functional_base \
+ ../include/cxx/cassert ../lib/newlib/newlib/libc/include/assert.h \
+ ../include/cxx/cstdlib ../include/cxx/stdexcept ../include/cxx/locale \
+ ../include/cxx/__locale ../include/cxx/mutex ../include/cxx/__mutex_base \
+ ../include/cxx/chrono ../include/cxx/ctime ../include/time.h \
+ ../lib/newlib/newlib/libc/include/time.h \
+ ../lib/newlib/newlib/libc/include/machine/time.h ../include/cxx/ratio \
+ ../include/cxx/climits ../include/limits.h \
+ ../include/arch/x86_64/machine/_limits.h ../include/cxx/system_error \
+ ../include/cxx/cerrno ../lib/newlib/newlib/libc/include/errno.h \
+ ../lib/newlib/newlib/libc/include/sys/errno.h \
+ x86_64/include/errors/errno.h ../include/c/stdbool.h \
+ ../include/barrelfish_kpi/dispatcher_handle.h \
+ ../include/barrelfish/threads.h ../include/barrelfish/caddr.h \
+ ../include/barrelfish/thread_sync.h \
+ ../include/arch/x86_64/barrelfish_kpi/spinlocks_arch.h \
+ ../include/arch/x86/barrelfish_kpi/spinlocks_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/registers_arch.h \
+ ../include/target/x86_64/barrelfish_kpi/registers_target.h \
+ ../include/arch/x86_64/barrelfish_kpi/eflags_arch.h \
+ ../include/cxx/functional ../include/cxx/tuple \
+ ../lib/newlib/newlib/libc/include/locale.h ../include/cxx/ios \
+ ../include/cxx/streambuf ../include/cxx/cstdarg ../include/nl_types.h \
+ ../include/cxx/codecvt ../include/cxx/vector \
+ ../include/cxx/__bit_reference ../include/cxx/__split_buffer \
+ ../include/cxx/__sso_allocator

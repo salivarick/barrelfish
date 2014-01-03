@@ -1,0 +1,78 @@
+x86_64/usr/openssh/src/openbsd-compat/_for_lib_openbsdcompat/port-tun.o \
+ x86_64/usr/openssh/src/openbsd-compat/_for_lib_openbsdcompat/port-tun.o.depend: \
+ ../usr/openssh/src/openbsd-compat/port-tun.c \
+ ../include/deputy/nodeputy.h ../usr/openssh/src/includes.h \
+ ../usr/openssh/config.h ../include/sys/types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/sys/cdefs.h \
+ ../include/sys/_types.h ../include/c/stddef.h ../include/c/stdarg.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../include/barrelfish/types.h ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../include/barrelfish/static_assert.h ../include/sys/socket.h \
+ ../include/lwip/sockets.h ../include/lwip/opt.h ../include/lwipopts.h \
+ ../include/barrelfish/net_constants.h ../include/lwip/debug.h \
+ ../include/lwip/arch.h ../include/arch/cc.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h \
+ ../include/arch/x86_64/machine/endian.h \
+ ../lib/newlib/newlib/libc/include/stdio.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h ../include/sys/time.h \
+ ../include/time.h ../lib/newlib/newlib/libc/include/time.h \
+ ../lib/newlib/newlib/libc/include/machine/time.h ../include/sys/select.h \
+ ../include/vfs/fdtab.h ../include/sys/_sigset.h ../include/fcntl.h \
+ ../include/ipv4/lwip/ip_addr.h ../include/ipv4/lwip/inet.h \
+ ../include/sys/ioccom.h ../include/limits.h \
+ ../include/arch/x86_64/machine/_limits.h ../include/utime.h \
+ ../include/paths.h ../include/strings.h ../include/termios.h \
+ ../include/sys/_termios.h ../include/sys/ttycom.h \
+ ../include/sys/ttydefaults.h ../include/sys/stat.h \
+ ../include/netinet/in.h ../include/netinet/in_systm.h \
+ ../lib/newlib/newlib/libc/include/errno.h \
+ ../lib/newlib/newlib/libc/include/sys/errno.h \
+ ../include/openssl/opensslv.h ../usr/openssh/src/defines.h \
+ ../include/netinet/ip.h ../include/ipv4/lwip/ip.h ../include/lwip/def.h \
+ ../include/lwip/pbuf.h ../include/lwip/err.h ../include/lwip/netif.h \
+ ../include/unistd.h ../lib/newlib/newlib/libc/include/pwd.h \
+ ../usr/openssh/src/platform.h \
+ ../usr/openssh/src/openbsd-compat/openbsd-compat.h \
+ ../usr/openssh/src/openbsd-compat/base64.h \
+ ../usr/openssh/src/openbsd-compat/sigact.h \
+ ../usr/openssh/src/openbsd-compat/glob.h \
+ ../usr/openssh/src/openbsd-compat/readpassphrase.h \
+ ../usr/openssh/src/openbsd-compat/vis.h \
+ ../usr/openssh/src/openbsd-compat/getrrsetbyname.h \
+ ../usr/openssh/src/openbsd-compat/sha2.h \
+ ../usr/openssh/src/openbsd-compat/bsd-misc.h \
+ ../usr/openssh/src/openbsd-compat/bsd-statvfs.h \
+ ../usr/openssh/src/openbsd-compat/bsd-waitpid.h \
+ ../usr/openssh/src/openbsd-compat/bsd-poll.h ../include/sys/ioctl.h \
+ ../usr/openssh/src/openbsd-compat/fake-rfc2553.h ../include/netdb.h \
+ ../include/lwip/netdb.h ../usr/openssh/src/openbsd-compat/bsd-cray.h \
+ ../usr/openssh/src/openbsd-compat/bsd-cygwin_util.h \
+ ../usr/openssh/src/openbsd-compat/port-aix.h \
+ ../usr/openssh/src/openbsd-compat/port-irix.h \
+ ../usr/openssh/src/openbsd-compat/port-linux.h \
+ ../usr/openssh/src/openbsd-compat/port-solaris.h \
+ ../usr/openssh/src/openbsd-compat/port-tun.h \
+ ../usr/openssh/src/openbsd-compat/port-uw.h \
+ ../usr/openssh/src/openbsd-compat/bsd-nextstep.h \
+ ../usr/openssh/src/entropy.h ../usr/openssh/src/buffer.h \
+ ../include/openssl/bn.h ../include/openssl/e_os2.h \
+ ../include/openssl/opensslconf.h ../include/openssl/ossl_typ.h \
+ ../include/openssl/crypto.h ../include/openssl/stack.h \
+ ../include/openssl/safestack.h ../include/openssl/symhacks.h \
+ ../include/openssl/ec.h ../include/openssl/asn1.h \
+ ../include/openssl/bio.h ../include/arpa/inet.h \
+ ../usr/openssh/src/openbsd-compat/sys-queue.h ../usr/openssh/src/log.h \
+ ../usr/openssh/src/misc.h ../usr/openssh/src/buffer.h \
+ ../usr/openssh/src/channels.h

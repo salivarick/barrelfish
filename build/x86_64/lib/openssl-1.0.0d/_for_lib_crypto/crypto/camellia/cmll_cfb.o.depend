@@ -1,0 +1,6 @@
+x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/camellia/cmll_cfb.o \
+ x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/camellia/cmll_cfb.o.depend: \
+ ../lib/openssl-1.0.0d/crypto/camellia/cmll_cfb.c \
+ ../include/deputy/nodeputy.h ../include/openssl/camellia.h \
+ ../include/openssl/opensslconf.h ../include/c/stddef.h \
+ ../include/openssl/modes.h

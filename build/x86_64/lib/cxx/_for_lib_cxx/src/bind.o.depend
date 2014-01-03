@@ -1,0 +1,20 @@
+x86_64/lib/cxx/_for_lib_cxx/src/bind.o \
+ x86_64/lib/cxx/_for_lib_cxx/src/bind.o.depend: ../lib/cxx/src/bind.cpp \
+ ../include/deputy/nodeputy.h ../include/cxx/functional \
+ ../include/cxx/__config ../include/cxx/type_traits \
+ ../include/cxx/cstddef ../include/c/stddef.h ../include/cxx/typeinfo \
+ ../include/cxx/exception ../include/cxx/memory ../include/cxx/cstdint \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/cxx/new \
+ ../include/cxx/utility ../include/cxx/__tuple ../include/cxx/limits \
+ ../include/cxx/iterator ../include/cxx/iosfwd \
+ ../lib/newlib/newlib/libc/include/wchar.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h ../include/sys/_types.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../include/cxx/__functional_base ../include/cxx/cassert \
+ ../lib/newlib/newlib/libc/include/assert.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/cxx/tuple

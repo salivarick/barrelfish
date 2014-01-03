@@ -1,0 +1,4 @@
+x86_64/lib/newlib/newlib/libm/complex/_for_lib_complex/catanh.o \
+ x86_64/lib/newlib/newlib/libm/complex/_for_lib_complex/catanh.o.depend: \
+ ../lib/newlib/newlib/libm/complex/catanh.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/complex.h ../include/sys/cdefs.h

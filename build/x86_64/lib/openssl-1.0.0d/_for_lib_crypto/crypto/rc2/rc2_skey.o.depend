@@ -1,0 +1,5 @@
+x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/rc2/rc2_skey.o \
+ x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/rc2/rc2_skey.o.depend: \
+ ../lib/openssl-1.0.0d/crypto/rc2/rc2_skey.c ../include/deputy/nodeputy.h \
+ ../include/openssl/rc2.h ../include/openssl/opensslconf.h \
+ ../lib/openssl-1.0.0d/crypto/rc2/rc2_locl.h

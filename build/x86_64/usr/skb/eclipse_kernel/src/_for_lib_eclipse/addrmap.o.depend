@@ -1,0 +1,4 @@
+x86_64/usr/skb/eclipse_kernel/src/_for_lib_eclipse/addrmap.o \
+ x86_64/usr/skb/eclipse_kernel/src/_for_lib_eclipse/addrmap.o.depend: \
+ ../usr/skb/eclipse_kernel/src/addrmap.c ../include/deputy/nodeputy.h \
+ ../usr/skb/eclipse_kernel/src/config.h

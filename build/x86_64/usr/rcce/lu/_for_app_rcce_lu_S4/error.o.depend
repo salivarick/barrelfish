@@ -1,0 +1,24 @@
+x86_64/usr/rcce/lu/_for_app_rcce_lu_S4/error.o \
+ x86_64/usr/rcce/lu/_for_app_rcce_lu_S4/error.o.depend: \
+ ../usr/rcce/lu/error.c ../include/deputy/nodeputy.h \
+ ../include/rcce/RCCE.h ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/c/stddef.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stdarg.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../lib/newlib/newlib/libc/include/stdio.h ../include/sys/types.h \
+ ../include/sys/cdefs.h ../include/barrelfish/types.h \
+ ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../include/barrelfish/static_assert.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h \
+ ../lib/newlib/newlib/libc/include/math.h ../usr/rcce/lu/applu_share.h \
+ ../usr/rcce/lu/npbparams.h ../usr/rcce/lu/npbparams.h.S.4 \
+ ../usr/rcce/lu/applu_protos.h ../usr/rcce/lu/applu_macros.h

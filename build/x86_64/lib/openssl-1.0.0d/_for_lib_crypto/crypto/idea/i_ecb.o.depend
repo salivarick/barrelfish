@@ -1,0 +1,6 @@
+x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/idea/i_ecb.o \
+ x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/idea/i_ecb.o.depend: \
+ ../lib/openssl-1.0.0d/crypto/idea/i_ecb.c ../include/deputy/nodeputy.h \
+ ../include/openssl/idea.h ../include/openssl/opensslconf.h \
+ ../lib/openssl-1.0.0d/crypto/idea/idea_lcl.h \
+ ../include/openssl/opensslv.h

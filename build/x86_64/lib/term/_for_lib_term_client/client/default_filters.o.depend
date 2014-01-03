@@ -1,0 +1,17 @@
+x86_64/lib/term/_for_lib_term_client/client/default_filters.o \
+ x86_64/lib/term/_for_lib_term_client/client/default_filters.o.depend: \
+ ../lib/term/client/default_filters.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/assert.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/c/stdbool.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h ../include/c/stddef.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stdarg.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../include/term/client/default_filters.h

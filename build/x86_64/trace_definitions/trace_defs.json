@@ -1,0 +1,266 @@
+{
+0 : {
+	"name" : "kernel",
+	"events" : {
+		0 : "Context Switch",
+		1 : "Buffer zeroing",
+		2 : "TIMER",
+		3 : "TIMER_SYNC",
+		4 : "SCHED_MAKE_RUNNABLE",
+		5 : "SCHED_REMOVE",
+		6 : "SCHED_YIELD",
+		7 : "SCHED_SCHEDULE",
+		8 : "SCHED_CURRENT"
+	}
+},
+1 : {
+	"name" : "threads",
+	"events" : {
+		0 : "BARRIER_ENTER",
+		1 : "BARRIER_LEAVE",
+		2 : "MUTEX_LOCK_ENTER",
+		3 : "MUTEX_LOCK_LEAVE",
+		4 : "MUTEX_LOCK_NESTED_ENTER",
+		5 : "MUTEX_LOCK_NESTED_LEAVE",
+		6 : "MUTEX_TRYLOCK",
+		7 : "MUTEX_UNLOCK",
+		8 : "COND_WAIT_ENTER",
+		9 : "COND_WAIT_LEAVE",
+		10 : "COND_SIGNAL",
+		11 : "COND_BROADCAST",
+		12 : "SEM_WAIT_ENTER",
+		13 : "SEM_WAIT_LEAVE",
+		14 : "SEM_TRYWAIT",
+		15 : "SEM_POST"
+	}
+},
+2 : {
+	"name" : "memserv",
+	"events" : {
+		0 : "ALLOC",
+		1 : "PERCORE_INIT",
+		2 : "PERCORE_ALLOC",
+		3 : "PERCORE_ALLOC_COMPLETE"
+	}
+},
+3 : {
+	"name" : "memtest",
+	"events" : {
+		0 : "START",
+		1 : "STOP",
+		2 : "STARTED",
+		3 : "WAIT",
+		4 : "RUN",
+		5 : "DONE",
+		6 : "ALLOC",
+		7 : "MASTER",
+		8 : "WORKER"
+	}
+},
+4 : {
+	"name" : "monitor",
+	"events" : {
+		0 : "SPAN0",
+		1 : "SPAN1",
+		2 : "SPAN",
+		3 : "PCREQ",
+		4 : "PCREP",
+		5 : "PCREQ_INTER",
+		6 : "PCREPLY_INTER",
+		7 : "URPC_BLOCK",
+		8 : "URPC_UNBLOCK",
+		9 : "REMOTE_CAP_RETYPE",
+		10 : "REMOTE_CAP_RETYPE_RETRY",
+		11 : "REMOTE_CAP_RETYPE_MSG",
+		12 : "REMOTE_CAP_RETYPE_END",
+		13 : "POLLING"
+	}
+},
+5 : {
+	"name" : "chips",
+	"events" : {
+		0 : "LISTENCB"
+	}
+},
+6 : {
+	"name" : "bflib",
+	"events" : {
+		0 : "dummy"
+	}
+},
+7 : {
+	"name" : "tweed",
+	"events" : {
+		0 : "START",
+		1 : "END",
+		2 : "STEAL",
+		3 : "STEAL_END",
+		4 : "WAIT",
+		5 : "WAIT_END",
+		6 : "LOCKING",
+		7 : "LOCKING_END"
+	}
+},
+8 : {
+	"name" : "route",
+	"events" : {
+		0 : "BCAST_WITH_CCAST_SEND",
+		1 : "BCAST_WITH_CCAST",
+		2 : "RECV_BCAST_WITH_CCAST",
+		3 : "RECV_CCAST",
+		4 : "BENCH_START",
+		5 : "BENCH_STOP",
+		6 : "SEND_PING",
+		7 : "SEND_PONG",
+		8 : "RECV_PING",
+		9 : "RECV_PONG",
+		10 : "POLL"
+	}
+},
+9 : {
+	"name" : "bench",
+	"events" : {
+		0 : "PCBENCH",
+		1 : "RXPING",
+		2 : "RXPONG"
+	}
+},
+10 : {
+	"name" : "bomp",
+	"events" : {
+		0 : "START",
+		1 : "STOP",
+		2 : "ITER"
+	}
+},
+11 : {
+	"name" : "barriers",
+	"events" : {
+		0 : "START",
+		1 : "STOP",
+		2 : "BARRIER_WAIT",
+		3 : "CENTRAL_REQ",
+		4 : "CENTRAL_REP",
+		5 : "TREE_REQ",
+		6 : "TREE_REP",
+		7 : "DIST",
+		8 : "SEND",
+		9 : "POLL1",
+		10 : "POLL2",
+		11 : "HEAP_REQ",
+		12 : "HEAP_REP",
+		13 : "SEQ_BCAST_REQ",
+		14 : "SEQ_BCAST_RECV",
+		15 : "TREE_BCAST_REQ",
+		16 : "TREE_BCAST_RECV"
+	}
+},
+12 : {
+	"name" : "net",
+	"events" : {
+		0 : "START",
+		1 : "STOP",
+		2 : "added, 0",
+		3 : "added, 0",
+		4 : "added, pkt data location",
+		5 : "added, pkt data location",
+		6 : "added, pkt data location",
+		7 : "added, pkt data location",
+		8 : "added, pkt data location",
+		9 : "added, pkt data location",
+		10 : "added, pkt data location",
+		11 : "added, pkt data location",
+		12 : "added, pkt data location",
+		13 : "added, pkt data location",
+		14 : "added, pbuf_id",
+		15 : "added, pbuf_id",
+		16 : "added, pbuf_id",
+		17 : "added, pbuf_addr",
+		18 : "added, pbuf_addr",
+		19 : "added, pbuf_addr",
+		20 : "added, pbuf_addr (as client_data )",
+		21 : "added, client_data (pbuf_address in lwip)",
+		22 : "added, e1000n.c client_data (pbuf_address in lwip)",
+		23 : "yet to add",
+		24 : "added, pbuf_addr (TX DONE in app)",
+		25 : "added, pbuf_id ( register_pbuf from APP)",
+		26 : "commented pbuf_id ( register_pbuf in NIC)"
+	}
+},
+13 : {
+	"name" : "multihop",
+	"events" : {
+		0 : "BENCH_START",
+		1 : "BENCH_STOP",
+		2 : "MESSAGE_SEND",
+		3 : "MESSAGE_RECEIVE"
+	}
+},
+14 : {
+	"name" : "bnet",
+	"events" : {
+		0 : "START",
+		1 : "STOP",
+		2 : "DRV_SEE",
+		3 : "APP_SEE",
+		4 : "DRV_INT",
+		5 : "DRV_POLL",
+		6 : "YIELD",
+		7 : "I"
+	}
+},
+15 : {
+	"name" : "nnet",
+	"events" : {
+		0 : "START",
+		1 : "STOP",
+		2 : "Driver saw pkg (RX)",
+		3 : "Ethersrv saw pkg",
+		4 : "Ethersrv checked frag",
+		5 : "Ethersrv app filtered",
+		6 : "Ethersrv app c2u started",
+		7 : "Ethersrv copied pkg",
+		8 : "Ethersrv spp produce done",
+		9 : "Ethersrv app notify",
+		10 : "LWIP handle_incoming_",
+		11 : "LWIP call rec_handler",
+		12 : "APP received",
+		13 : "APP sent",
+		14 : "LWIP idc_send_packet",
+		15 : "LWIP before mfence",
+		16 : "LWIP after mfence",
+		17 : "LWIP payload flushed",
+		18 : "LWIP bufferdesc fetched",
+		19 : "LWIP spp produced",
+		20 : "LWIP update spp index",
+		21 : "LWIP pending TX work",
+		22 : "LWIP notify driver",
+		23 : "Ethersrv notify recieved",
+		24 : "Ethersrv send_pkt_on_w..",
+		25 : "Ethersrv send_sng_pkt..",
+		26 : "Driver add pkg (TX)",
+		27 : "Driver saw pkg done (TX)",
+		28 : "tcp_write done",
+		29 : "tcp_output done",
+		30 : "tcp_recved done",
+		31 : "tx pbuf freed",
+		32 : "tx pbuf memp start",
+		33 : "tx pbuf memp done"
+	}
+},
+16 : {
+	"name" : "xmpl",
+	"events" : {
+		0 : "START",
+		1 : "STOP",
+		2 : "EV1",
+		3 : "EV2"
+	}
+},
+-5632 : {
+	"name" : "ump send"
+	},
+-5376 : {
+	"name" : "ump receive"
+	}
+}

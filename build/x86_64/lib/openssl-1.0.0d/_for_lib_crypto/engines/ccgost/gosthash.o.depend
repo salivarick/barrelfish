@@ -1,0 +1,19 @@
+x86_64/lib/openssl-1.0.0d/_for_lib_crypto/engines/ccgost/gosthash.o \
+ x86_64/lib/openssl-1.0.0d/_for_lib_crypto/engines/ccgost/gosthash.o.depend: \
+ ../lib/openssl-1.0.0d/engines/ccgost/gosthash.c \
+ ../include/deputy/nodeputy.h ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h \
+ ../lib/openssl-1.0.0d/engines/ccgost/gost89.h \
+ ../lib/openssl-1.0.0d/engines/ccgost/gosthash.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h

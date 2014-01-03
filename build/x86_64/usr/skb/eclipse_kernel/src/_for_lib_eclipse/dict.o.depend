@@ -1,0 +1,47 @@
+x86_64/usr/skb/eclipse_kernel/src/_for_lib_eclipse/dict.o \
+ x86_64/usr/skb/eclipse_kernel/src/_for_lib_eclipse/dict.o.depend: \
+ ../usr/skb/eclipse_kernel/src/dict.c ../include/deputy/nodeputy.h \
+ ../usr/skb/eclipse_kernel/src/config.h \
+ ../usr/skb/eclipse_kernel/src/os_support.h ../include/sys/types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/sys/cdefs.h \
+ ../include/sys/_types.h ../include/c/stddef.h ../include/c/stdarg.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../include/barrelfish/types.h ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../include/barrelfish/static_assert.h ../include/unistd.h \
+ ../lib/newlib/newlib/libc/include/pwd.h ../include/fcntl.h \
+ ../include/sys/socket.h ../include/lwip/sockets.h ../include/lwip/opt.h \
+ ../include/lwipopts.h ../include/barrelfish/net_constants.h \
+ ../include/lwip/debug.h ../include/lwip/arch.h ../include/arch/cc.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h \
+ ../include/arch/x86_64/machine/endian.h \
+ ../lib/newlib/newlib/libc/include/stdio.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h ../include/sys/time.h \
+ ../include/time.h ../lib/newlib/newlib/libc/include/time.h \
+ ../lib/newlib/newlib/libc/include/machine/time.h ../include/sys/select.h \
+ ../include/vfs/fdtab.h ../include/sys/_sigset.h \
+ ../include/ipv4/lwip/ip_addr.h ../include/ipv4/lwip/inet.h \
+ ../include/sys/ioccom.h ../include/limits.h \
+ ../include/arch/x86_64/machine/_limits.h \
+ ../usr/skb/eclipse_kernel/src/sepia.h \
+ ../usr/skb/eclipse_kernel/src/ec_public.h \
+ ../usr/skb/eclipse_kernel/src/types.h \
+ ../lib/newlib/newlib/libc/include/setjmp.h \
+ ../lib/newlib/newlib/libc/include/machine/setjmp.h \
+ ../usr/skb/eclipse_kernel/src/memman.h \
+ ../usr/skb/eclipse_kernel/src/embed.h \
+ ../usr/skb/eclipse_kernel/src/error.h \
+ ../usr/skb/eclipse_kernel/src/mem.h ../usr/skb/eclipse_kernel/src/io.h \
+ ../usr/skb/eclipse_kernel/src/dict.h \
+ ../usr/skb/eclipse_kernel/src/emu_export.h

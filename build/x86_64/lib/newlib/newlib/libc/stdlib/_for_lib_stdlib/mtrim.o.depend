@@ -1,0 +1,3 @@
+x86_64/lib/newlib/newlib/libc/stdlib/_for_lib_stdlib/mtrim.o \
+ x86_64/lib/newlib/newlib/libc/stdlib/_for_lib_stdlib/mtrim.o.depend: \
+ ../lib/newlib/newlib/libc/stdlib/mtrim.c ../include/deputy/nodeputy.h

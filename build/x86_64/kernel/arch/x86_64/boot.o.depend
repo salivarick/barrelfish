@@ -1,0 +1,4 @@
+x86_64/kernel/arch/x86_64/boot.o x86_64/kernel/arch/x86_64/boot.o.depend: \
+ ../kernel/arch/x86_64/boot.S ../include/deputy/nodeputy.h \
+ ../kernel/include/multiboot.h \
+ ../kernel/include/target/x86_64/offsets_target.h

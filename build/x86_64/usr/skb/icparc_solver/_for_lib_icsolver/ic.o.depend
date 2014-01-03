@@ -1,0 +1,26 @@
+x86_64/usr/skb/icparc_solver/_for_lib_icsolver/ic.o \
+ x86_64/usr/skb/icparc_solver/_for_lib_icsolver/ic.o.depend: \
+ ../usr/skb/icparc_solver/ic.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/math.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h \
+ ../usr/skb/eclipse_kernel/src/external.h \
+ ../usr/skb/eclipse_kernel/src/config.h \
+ ../usr/skb/eclipse_kernel/src/sepia.h \
+ ../usr/skb/eclipse_kernel/src/ec_public.h \
+ ../usr/skb/eclipse_kernel/src/types.h \
+ ../usr/skb/eclipse_kernel/src/error.h \
+ ../usr/skb/eclipse_kernel/src/embed.h \
+ ../usr/skb/eclipse_kernel/src/error.h ../usr/skb/icparc_solver/bitmap.h \
+ ../usr/skb/eclipse_kernel/src/intervals.h ../include/values.h \
+ ../usr/skb/eclipse_kernel/src/rounding_control.h \
+ ../usr/skb/eclipse_kernel/src/emu_export.h

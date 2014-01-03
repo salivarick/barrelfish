@@ -1,0 +1,12 @@
+x86_64/kernel/arch/x86/init_ap_x86_32.o \
+ x86_64/kernel/arch/x86/init_ap_x86_32.o.depend: \
+ ../kernel/arch/x86/init_ap_x86_32.S ../include/deputy/nodeputy.h \
+ ../kernel/include/target/x86_32/offsets_target.h \
+ ../kernel/include/arch/x86_64/init.h ../kernel/include/arch/x86_64/x86.h \
+ ../include/barrelfish_kpi/types.h ../include/barrelfish_kpi/cpu.h \
+ ../include/arch/x86_64/barrelfish_kpi/generic_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/eflags_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/asm_inlines_arch.h \
+ ../include/arch/x86/barrelfish_kpi/asm_inlines_arch.h \
+ ../kernel/include/arch/x86/x86.h \
+ ../include/arch/x86_64/barrelfish_kpi/cpu_arch.h

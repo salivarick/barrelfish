@@ -498,6 +498,8 @@ int main(int argc, char ** argv)
         return EXIT_FAILURE;
     }
 
+    printf("user: mem ser start\n");
+
     // First argument contains the bootinfo location
     bi = (struct bootinfo*)strtol(argv[1], NULL, 10);
 

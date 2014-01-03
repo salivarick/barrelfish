@@ -1,0 +1,14 @@
+x86_64/lib/newlib/newlib/libm/complex/_for_lib_complex/ccoshf.o \
+ x86_64/lib/newlib/newlib/libm/complex/_for_lib_complex/ccoshf.o.depend: \
+ ../lib/newlib/newlib/libm/complex/ccoshf.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/complex.h ../include/sys/cdefs.h \
+ ../lib/newlib/newlib/libc/include/math.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h

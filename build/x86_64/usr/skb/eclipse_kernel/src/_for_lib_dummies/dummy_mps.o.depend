@@ -1,0 +1,3 @@
+x86_64/usr/skb/eclipse_kernel/src/_for_lib_dummies/dummy_mps.o \
+ x86_64/usr/skb/eclipse_kernel/src/_for_lib_dummies/dummy_mps.o.depend: \
+ ../usr/skb/eclipse_kernel/src/dummy_mps.c ../include/deputy/nodeputy.h

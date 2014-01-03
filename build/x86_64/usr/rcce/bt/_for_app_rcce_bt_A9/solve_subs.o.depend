@@ -1,0 +1,3 @@
+x86_64/usr/rcce/bt/_for_app_rcce_bt_A9/solve_subs.o \
+ x86_64/usr/rcce/bt/_for_app_rcce_bt_A9/solve_subs.o.depend: \
+ ../usr/rcce/bt/solve_subs.c ../include/deputy/nodeputy.h

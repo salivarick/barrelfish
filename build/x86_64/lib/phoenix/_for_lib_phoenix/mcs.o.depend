@@ -1,0 +1,3 @@
+x86_64/lib/phoenix/_for_lib_phoenix/mcs.o \
+ x86_64/lib/phoenix/_for_lib_phoenix/mcs.o.depend: ../lib/phoenix/mcs.c \
+ ../include/deputy/nodeputy.h

@@ -1,0 +1,14 @@
+x86_64/lib/posixcompat/_for_lib_posixcompat/kill.o \
+ x86_64/lib/posixcompat/_for_lib_posixcompat/kill.o.depend: \
+ ../lib/posixcompat/kill.c ../include/deputy/nodeputy.h \
+ ../include/signal.h ../include/sys/cdefs.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../include/sys/_sigset.h ../lib/newlib/newlib/libc/include/errno.h \
+ ../lib/newlib/newlib/libc/include/sys/errno.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h

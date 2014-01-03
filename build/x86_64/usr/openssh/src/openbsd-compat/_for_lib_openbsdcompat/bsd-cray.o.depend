@@ -1,0 +1,4 @@
+x86_64/usr/openssh/src/openbsd-compat/_for_lib_openbsdcompat/bsd-cray.o \
+ x86_64/usr/openssh/src/openbsd-compat/_for_lib_openbsdcompat/bsd-cray.o.depend: \
+ ../usr/openssh/src/openbsd-compat/bsd-cray.c \
+ ../include/deputy/nodeputy.h

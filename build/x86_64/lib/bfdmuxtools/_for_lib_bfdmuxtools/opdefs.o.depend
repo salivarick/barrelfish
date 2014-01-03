@@ -1,0 +1,5 @@
+x86_64/lib/bfdmuxtools/_for_lib_bfdmuxtools/opdefs.o \
+ x86_64/lib/bfdmuxtools/_for_lib_bfdmuxtools/opdefs.o.depend: \
+ ../lib/bfdmuxtools/opdefs.c ../include/deputy/nodeputy.h \
+ ../lib/bfdmuxtools/opdefs.h ../lib/newlib/newlib/libc/include/stdint.h \
+ ../include/bfdmuxtools/filter.h

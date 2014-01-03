@@ -1,0 +1,4 @@
+x86_64/usr/skb/eclipse_kernel/src/_for_lib_dummies/whereami_default.o \
+ x86_64/usr/skb/eclipse_kernel/src/_for_lib_dummies/whereami_default.o.depend: \
+ ../usr/skb/eclipse_kernel/src/whereami_default.c \
+ ../include/deputy/nodeputy.h

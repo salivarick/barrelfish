@@ -1,0 +1,15 @@
+x86_64/lib/posixcompat/_for_lib_posixcompat/basename.o \
+ x86_64/lib/posixcompat/_for_lib_posixcompat/basename.o.depend: \
+ ../lib/posixcompat/basename.c ../include/deputy/nodeputy.h \
+ ../include/libgen.h ../include/sys/cdefs.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h

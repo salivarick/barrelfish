@@ -1,0 +1,26 @@
+x86_64/lib/pcre/_for_lib_pcre/pcre_info.o \
+ x86_64/lib/pcre/_for_lib_pcre/pcre_info.o.depend: \
+ ../lib/pcre/pcre_info.c ../include/deputy/nodeputy.h \
+ ../lib/pcre/config.h ../lib/pcre/pcre_internal.h \
+ ../lib/newlib/newlib/libc/include/ctype.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/limits.h \
+ ../include/sys/cdefs.h ../include/arch/x86_64/machine/_limits.h \
+ ../include/c/stddef.h ../lib/newlib/newlib/libc/include/stdio.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h ../include/sys/types.h \
+ ../include/barrelfish/types.h ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../include/barrelfish/static_assert.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h ../lib/pcre/pcre.h \
+ ../lib/pcre/ucp.h

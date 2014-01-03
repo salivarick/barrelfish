@@ -1,0 +1,6 @@
+x86_64/usr/skb/eclipse_kernel/src/_for_lib_dummies/dummy_par.o \
+ x86_64/usr/skb/eclipse_kernel/src/_for_lib_dummies/dummy_par.o.depend: \
+ ../usr/skb/eclipse_kernel/src/dummy_par.c ../include/deputy/nodeputy.h \
+ ../usr/skb/eclipse_kernel/src/config.h \
+ ../usr/skb/eclipse_kernel/src/ec_public.h \
+ ../usr/skb/eclipse_kernel/src/error.h

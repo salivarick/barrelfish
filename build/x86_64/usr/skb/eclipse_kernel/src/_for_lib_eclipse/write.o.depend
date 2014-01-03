@@ -1,0 +1,40 @@
+x86_64/usr/skb/eclipse_kernel/src/_for_lib_eclipse/write.o \
+ x86_64/usr/skb/eclipse_kernel/src/_for_lib_eclipse/write.o.depend: \
+ ../usr/skb/eclipse_kernel/src/write.c ../include/deputy/nodeputy.h \
+ ../usr/skb/eclipse_kernel/src/config.h \
+ ../lib/newlib/newlib/libc/include/math.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/stdio.h ../include/sys/types.h \
+ ../include/sys/cdefs.h ../include/barrelfish/types.h \
+ ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../include/barrelfish/static_assert.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h \
+ ../usr/skb/eclipse_kernel/src/sepia.h \
+ ../usr/skb/eclipse_kernel/src/ec_public.h \
+ ../usr/skb/eclipse_kernel/src/types.h \
+ ../lib/newlib/newlib/libc/include/setjmp.h \
+ ../lib/newlib/newlib/libc/include/machine/setjmp.h \
+ ../usr/skb/eclipse_kernel/src/memman.h \
+ ../usr/skb/eclipse_kernel/src/embed.h \
+ ../usr/skb/eclipse_kernel/src/mem.h \
+ ../usr/skb/eclipse_kernel/src/error.h \
+ ../usr/skb/eclipse_kernel/src/dict.h ../usr/skb/eclipse_kernel/src/lex.h \
+ ../usr/skb/eclipse_kernel/src/io.h \
+ ../usr/skb/eclipse_kernel/src/emu_export.h \
+ ../usr/skb/eclipse_kernel/src/module.h \
+ ../usr/skb/eclipse_kernel/src/property.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h \
+ ../lib/newlib/newlib/libc/include/ctype.h

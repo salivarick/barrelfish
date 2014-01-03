@@ -1,0 +1,27 @@
+x86_64/lib/cxx/_for_lib_cxx/src/valarray.o \
+ x86_64/lib/cxx/_for_lib_cxx/src/valarray.o.depend: \
+ ../lib/cxx/src/valarray.cpp ../include/deputy/nodeputy.h \
+ ../include/cxx/valarray ../include/cxx/__config ../include/cxx/cstddef \
+ ../include/c/stddef.h ../include/cxx/cmath \
+ ../lib/newlib/newlib/libc/include/math.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stdarg.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/cxx/type_traits \
+ ../include/cxx/initializer_list ../include/cxx/algorithm \
+ ../include/cxx/cstring ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h ../include/cxx/utility \
+ ../include/cxx/__tuple ../include/cxx/memory ../include/cxx/typeinfo \
+ ../include/cxx/exception ../include/cxx/cstdint ../include/cxx/new \
+ ../include/cxx/limits ../include/cxx/iterator ../include/cxx/iosfwd \
+ ../lib/newlib/newlib/libc/include/wchar.h \
+ ../include/cxx/__functional_base ../include/cxx/cassert \
+ ../lib/newlib/newlib/libc/include/assert.h ../include/cxx/cstdlib \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../include/cxx/functional ../include/cxx/tuple

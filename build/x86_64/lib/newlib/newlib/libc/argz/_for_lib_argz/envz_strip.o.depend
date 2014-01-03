@@ -1,0 +1,25 @@
+x86_64/lib/newlib/newlib/libc/argz/_for_lib_argz/envz_strip.o \
+ x86_64/lib/newlib/newlib/libc/argz/_for_lib_argz/envz_strip.o.depend: \
+ ../lib/newlib/newlib/libc/argz/envz_strip.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/errno.h \
+ ../lib/newlib/newlib/libc/include/sys/errno.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../include/sys/types.h ../include/sys/cdefs.h \
+ ../include/barrelfish/types.h ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../include/barrelfish/static_assert.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h \
+ ../lib/newlib/newlib/libc/include/argz.h \
+ ../lib/newlib/newlib/libc/include/envz.h

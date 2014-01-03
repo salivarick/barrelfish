@@ -1,0 +1,9 @@
+x86_64/usr/tests/tls/_for_app_tlstest/tls2.o \
+ x86_64/usr/tests/tls/_for_app_tlstest/tls2.o.depend: \
+ ../usr/tests/tls/tls2.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/assert.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h

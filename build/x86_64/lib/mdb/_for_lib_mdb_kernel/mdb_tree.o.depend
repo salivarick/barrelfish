@@ -1,0 +1,28 @@
+x86_64/lib/mdb/_for_lib_mdb_kernel/mdb_tree.o \
+ x86_64/lib/mdb/_for_lib_mdb_kernel/mdb_tree.o.depend: \
+ ../lib/mdb/mdb_tree.c ../include/deputy/nodeputy.h \
+ ../include/mdb/mdb_tree.h ../include/sys/cdefs.h \
+ x86_64/include/errors/errno.h ../lib/newlib/newlib/libc/include/stdint.h \
+ ../include/c/stdbool.h ../include/barrelfish/types.h \
+ ../include/barrelfish_kpi/types.h ../include/c/stddef.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../include/barrelfish/static_assert.h ../include/mdb/types.h \
+ ../include/mdb/mdb.h ../include/barrelfish_kpi/capabilities.h \
+ x86_64/include/barrelfish_kpi/capbits.h \
+ ../lib/newlib/newlib/libc/include/assert.h \
+ ../kernel/include/cap_predicates.h ../kernel/include/capabilities.h \
+ ../kernel/include/arch/x86_64/offsets.h \
+ ../kernel/include/target/x86_64/offsets_target.h \
+ ../kernel/include/paging_generic.h \
+ ../lib/newlib/newlib/libc/include/stdio.h ../include/sys/types.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h

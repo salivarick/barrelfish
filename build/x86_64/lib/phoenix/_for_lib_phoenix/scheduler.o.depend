@@ -1,0 +1,12 @@
+x86_64/lib/phoenix/_for_lib_phoenix/scheduler.o \
+ x86_64/lib/phoenix/_for_lib_phoenix/scheduler.o.depend: \
+ ../lib/phoenix/scheduler.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/assert.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/phoenix/scheduler.h ../lib/phoenix/defines.h \
+ ../lib/phoenix/locality.h ../lib/phoenix/processor.h \
+ ../include/c/stdbool.h

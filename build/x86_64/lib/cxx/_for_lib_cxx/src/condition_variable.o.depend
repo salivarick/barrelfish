@@ -1,0 +1,44 @@
+x86_64/lib/cxx/_for_lib_cxx/src/condition_variable.o \
+ x86_64/lib/cxx/_for_lib_cxx/src/condition_variable.o.depend: \
+ ../lib/cxx/src/condition_variable.cpp ../include/deputy/nodeputy.h \
+ ../include/cxx/condition_variable ../include/cxx/__config \
+ ../include/cxx/__mutex_base ../include/cxx/chrono ../include/cxx/ctime \
+ ../include/time.h ../lib/newlib/newlib/libc/include/time.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/machine/time.h ../include/sys/types.h \
+ ../include/sys/cdefs.h ../include/barrelfish/types.h \
+ ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../include/barrelfish/static_assert.h ../include/cxx/type_traits \
+ ../include/cxx/cstddef ../include/cxx/ratio ../include/cxx/cstdint \
+ ../include/cxx/climits ../include/limits.h \
+ ../include/arch/x86_64/machine/_limits.h ../include/cxx/limits \
+ ../include/cxx/system_error ../include/cxx/cerrno \
+ ../lib/newlib/newlib/libc/include/errno.h \
+ ../lib/newlib/newlib/libc/include/sys/errno.h ../include/cxx/stdexcept \
+ ../include/cxx/exception ../include/cxx/iosfwd \
+ ../lib/newlib/newlib/libc/include/wchar.h \
+ ../include/cxx/__functional_base ../include/cxx/typeinfo \
+ x86_64/include/errors/errno.h ../include/c/stdbool.h \
+ ../include/barrelfish_kpi/dispatcher_handle.h \
+ ../include/barrelfish/threads.h ../include/barrelfish/caddr.h \
+ ../include/barrelfish/thread_sync.h \
+ ../include/arch/x86_64/barrelfish_kpi/spinlocks_arch.h \
+ ../include/arch/x86/barrelfish_kpi/spinlocks_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/registers_arch.h \
+ ../include/target/x86_64/barrelfish_kpi/registers_target.h \
+ ../include/arch/x86_64/barrelfish_kpi/eflags_arch.h \
+ ../include/cxx/memory ../include/cxx/new ../include/cxx/utility \
+ ../include/cxx/__tuple ../include/cxx/iterator ../include/cxx/cassert \
+ ../lib/newlib/newlib/libc/include/assert.h ../include/cxx/thread \
+ ../include/cxx/functional ../include/cxx/tuple

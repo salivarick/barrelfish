@@ -1,0 +1,14 @@
+x86_64/lib/newlib/newlib/libm/common/_for_lib_common/fmaxl.o \
+ x86_64/lib/newlib/newlib/libm/common/_for_lib_common/fmaxl.o.depend: \
+ ../lib/newlib/newlib/libm/common/fmaxl.c ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/include/math.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libm/common/local.h

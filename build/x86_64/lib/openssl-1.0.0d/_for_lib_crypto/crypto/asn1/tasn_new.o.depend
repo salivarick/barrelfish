@@ -1,0 +1,35 @@
+x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/asn1/tasn_new.o \
+ x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/asn1/tasn_new.o.depend: \
+ ../lib/openssl-1.0.0d/crypto/asn1/tasn_new.c \
+ ../include/deputy/nodeputy.h ../include/c/stddef.h \
+ ../include/openssl/asn1.h ../include/time.h \
+ ../lib/newlib/newlib/libc/include/time.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stdarg.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/machine/time.h ../include/sys/types.h \
+ ../include/sys/cdefs.h ../include/barrelfish/types.h \
+ ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../include/barrelfish/static_assert.h ../include/openssl/e_os2.h \
+ ../include/openssl/opensslconf.h ../include/openssl/bio.h \
+ ../lib/newlib/newlib/libc/include/stdio.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h \
+ ../include/openssl/crypto.h ../include/openssl/stack.h \
+ ../include/openssl/safestack.h ../include/openssl/opensslv.h \
+ ../include/openssl/ossl_typ.h ../include/openssl/symhacks.h \
+ ../include/openssl/bn.h ../include/openssl/objects.h \
+ ../include/openssl/obj_mac.h ../include/openssl/err.h \
+ ../include/openssl/lhash.h ../lib/newlib/newlib/libc/include/errno.h \
+ ../lib/newlib/newlib/libc/include/sys/errno.h ../include/openssl/asn1t.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h

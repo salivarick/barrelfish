@@ -1,0 +1,39 @@
+x86_64/usr/acpi/acpica/_for_lib_acpica/utilities/utclib.o \
+ x86_64/usr/acpi/acpica/_for_lib_acpica/utilities/utclib.o.depend: \
+ ../usr/acpi/acpica/utilities/utclib.c ../include/deputy/nodeputy.h \
+ ../usr/acpi/acpica/include/acpi.h \
+ ../usr/acpi/acpica/include/platform/acenv.h \
+ ../usr/acpi/acpica/include/platform/acbarrelfish.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h \
+ ../lib/newlib/newlib/libc/include/ctype.h \
+ ../usr/acpi/acpica/include/acnames.h \
+ ../usr/acpi/acpica/include/actypes.h \
+ ../usr/acpi/acpica/include/acexcep.h ../usr/acpi/acpica/include/actbl.h \
+ ../usr/acpi/acpica/include/actbl1.h ../usr/acpi/acpica/include/actbl2.h \
+ ../usr/acpi/acpica/include/acoutput.h \
+ ../usr/acpi/acpica/include/acrestyp.h \
+ ../usr/acpi/acpica/include/acpiosxf.h \
+ ../usr/acpi/acpica/include/acpixf.h \
+ ../usr/acpi/acpica/include/accommon.h \
+ ../usr/acpi/acpica/include/acconfig.h \
+ ../usr/acpi/acpica/include/acmacros.h \
+ ../usr/acpi/acpica/include/aclocal.h \
+ ../usr/acpi/acpica/include/acobject.h \
+ ../usr/acpi/acpica/include/acstruct.h \
+ ../usr/acpi/acpica/include/acglobal.h \
+ ../usr/acpi/acpica/include/achware.h \
+ ../usr/acpi/acpica/include/acutils.h

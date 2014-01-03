@@ -1,0 +1,5 @@
+x86_64/lib/newlib/newlib/libc/_for_lib_newc/machine/x86_64/memset.o \
+ x86_64/lib/newlib/newlib/libc/_for_lib_newc/machine/x86_64/memset.o.depend: \
+ ../lib/newlib/newlib/libc/machine/x86_64/memset.S \
+ ../include/deputy/nodeputy.h \
+ ../lib/newlib/newlib/libc/machine/x86_64/x86_64mach.h

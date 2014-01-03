@@ -1,0 +1,4 @@
+x86_64/usr/openssh/src/openbsd-compat/_for_lib_openbsdcompat/strnlen.o \
+ x86_64/usr/openssh/src/openbsd-compat/_for_lib_openbsdcompat/strnlen.o.depend: \
+ ../usr/openssh/src/openbsd-compat/strnlen.c ../include/deputy/nodeputy.h \
+ ../usr/openssh/config.h

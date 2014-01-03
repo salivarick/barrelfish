@@ -1,0 +1,112 @@
+x86_64/usr/acpi/_for_app_acpi/acpi_main.o \
+ x86_64/usr/acpi/_for_app_acpi/acpi_main.o.depend: \
+ ../usr/acpi/acpi_main.c ../include/deputy/nodeputy.h \
+ ../include/barrelfish/barrelfish.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stddef.h \
+ ../include/c/stdbool.h ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../include/c/stdarg.h ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../lib/newlib/newlib/libc/include/assert.h x86_64/include/errors/errno.h \
+ ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../include/barrelfish/static_assert.h \
+ ../include/barrelfish_kpi/capabilities.h \
+ x86_64/include/barrelfish_kpi/capbits.h ../include/barrelfish_kpi/cpu.h \
+ ../include/arch/x86_64/barrelfish_kpi/generic_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/eflags_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/asm_inlines_arch.h \
+ ../include/target/x86_64/barrelfish_kpi/registers_target.h \
+ ../include/arch/x86/barrelfish_kpi/asm_inlines_arch.h \
+ ../include/arch/x86_64/barrelfish_kpi/paging_arch.h \
+ ../include/target/x86_64/barrelfish_kpi/paging_target.h \
+ ../include/barrelfish_kpi/syscalls.h ../include/barrelfish_kpi/init.h \
+ ../include/arch/x86_64/barrelfish_kpi/registers_arch.h \
+ ../include/barrelfish_kpi/dispatcher_handle.h \
+ ../include/barrelfish/types.h ../include/barrelfish/capabilities.h \
+ ../include/sys/cdefs.h ../include/barrelfish_kpi/dispatcher_shared.h \
+ ../include/arch/x86_64/barrelfish/invocations_arch.h \
+ ../include/arch/x86_64/barrelfish/syscall_arch.h \
+ ../include/barrelfish/caddr.h ../include/barrelfish/slab.h \
+ ../include/barrelfish/vspace_common.h ../include/barrelfish/memobj.h \
+ ../include/barrelfish/vregion.h \
+ ../include/arch/x86_64/barrelfish/pmap_arch.h \
+ ../include/target/x86_64/barrelfish/pmap_target.h \
+ ../include/target/x86/barrelfish/pmap_target.h \
+ ../include/barrelfish/pmap.h ../include/barrelfish/vspace_layout.h \
+ ../include/barrelfish/vspace.h ../include/barrelfish/vspace_mmu_aware.h \
+ ../include/barrelfish/threads.h ../include/barrelfish/thread_sync.h \
+ ../include/arch/x86_64/barrelfish_kpi/spinlocks_arch.h \
+ ../include/arch/x86/barrelfish_kpi/spinlocks_arch.h \
+ ../include/barrelfish/slot_alloc.h ../include/barrelfish/ram_alloc.h \
+ ../include/barrelfish/syscalls.h ../include/barrelfish/cspace.h \
+ ../include/barrelfish/domain.h ../include/barrelfish/debug.h \
+ ../include/barrelfish/dispatch.h \
+ ../include/barrelfish/nameservice_client.h \
+ ../lib/newlib/newlib/libc/include/stdio.h ../include/sys/types.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h ../include/mm/mm.h \
+ ../include/mm/slot_alloc.h \
+ x86_64/include/if/monitor_blocking_rpcclient_defs.h \
+ x86_64/include/if/monitor_blocking_defs.h ../include/flounder/flounder.h \
+ ../include/barrelfish/waitset.h ../include/barrelfish/idc.h \
+ ../include/barrelfish/lmp_chan.h ../include/barrelfish/lmp_endpoints.h \
+ ../include/barrelfish_kpi/lmp.h \
+ ../include/arch/x86_64/barrelfish_kpi/lmp_arch.h \
+ ../include/arch/x86_64/barrelfish/lmp_chan_arch.h \
+ ../include/barrelfish/ump_chan.h ../include/barrelfish/ump_endpoint.h \
+ ../include/barrelfish/ump_impl.h ../include/barrelfish/monitor_client.h \
+ ../include/barrelfish/multihop_chan.h \
+ ../include/flounder/flounder_support_caps.h \
+ ../include/barrelfish/idc_export.h ../include/barrelfish/event_mutex.h \
+ ../include/barrelfish/event_queue.h \
+ x86_64/include/if/monitor_blocking_lmp_defs.h \
+ x86_64/include/if/monitor_blocking_ump_defs.h \
+ ../include/flounder/flounder_support_ump.h ../include/trace/trace.h \
+ ../include/arch/x86_64/barrelfish/dispatcher_arch.h \
+ ../include/target/x86_64/barrelfish/dispatcher_target.h \
+ ../include/arch/x86_64/barrelfish_kpi/dispatcher_shared_arch.h \
+ ../include/target/x86_64/barrelfish_kpi/dispatcher_shared_target.h \
+ ../include/barrelfish/dispatcher.h \
+ ../include/arch/x86_64/barrelfish/core_state_arch.h \
+ ../include/arch/x86/barrelfish/core_state_arch.h \
+ ../include/barrelfish/core_state.h ../include/k_r_malloc.h \
+ ../include/barrelfish/heap.h \
+ ../include/arch/x86_64/barrelfish/curdispatcher_arch.h \
+ ../include/barrelfish/sys_debug.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h \
+ x86_64/include/trace_definitions/trace_defs.h \
+ x86_64/include/if/monitor_blocking_multihop_defs.h \
+ ../include/octopus/octopus.h ../include/octopus/init.h \
+ x86_64/include/if/octopus_defs.h x86_64/include/if/octopus_lmp_defs.h \
+ x86_64/include/if/octopus_ump_defs.h \
+ x86_64/include/if/octopus_multihop_defs.h \
+ x86_64/include/if/octopus_thc.h ../include/thc/thcstubs.h \
+ ../include/thc/thc.h ../include/thc/thcsync.h \
+ ../include/thc/thcinternal.h ../include/octopus/getset.h \
+ ../include/octopus/pubsub.h ../include/octopus/trigger.h \
+ ../include/octopus/definitions.h ../include/octopus/lock.h \
+ ../include/octopus/barrier.h ../include/octopus/semaphores.h \
+ ../include/skb/skb.h ../usr/acpi/acpi_debug.h ../usr/acpi/acpi_shared.h \
+ ../usr/acpi/acpica/include/acpi.h \
+ ../usr/acpi/acpica/include/platform/acenv.h \
+ ../usr/acpi/acpica/include/platform/acbarrelfish.h \
+ ../lib/newlib/newlib/libc/include/ctype.h \
+ ../usr/acpi/acpica/include/acnames.h \
+ ../usr/acpi/acpica/include/actypes.h \
+ ../usr/acpi/acpica/include/acexcep.h ../usr/acpi/acpica/include/actbl.h \
+ ../usr/acpi/acpica/include/actbl1.h ../usr/acpi/acpica/include/actbl2.h \
+ ../usr/acpi/acpica/include/acoutput.h \
+ ../usr/acpi/acpica/include/acrestyp.h \
+ ../usr/acpi/acpica/include/acpiosxf.h \
+ ../usr/acpi/acpica/include/acpixf.h x86_64/include/if/acpi_defs.h \
+ x86_64/include/if/acpi_lmp_defs.h x86_64/include/if/acpi_ump_defs.h \
+ x86_64/include/if/acpi_multihop_defs.h \
+ ../include/pci/confspace/pci_confspace.h

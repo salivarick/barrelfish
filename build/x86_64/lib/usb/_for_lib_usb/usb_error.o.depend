@@ -1,0 +1,3 @@
+x86_64/lib/usb/_for_lib_usb/usb_error.o \
+ x86_64/lib/usb/_for_lib_usb/usb_error.o.depend: ../lib/usb/usb_error.c \
+ ../include/deputy/nodeputy.h ../include/usb/usb_error.h

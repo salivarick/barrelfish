@@ -1,0 +1,3 @@
+x86_64/lib/newlib/newlib/libc/signal/_for_lib_signal/raise.o \
+ x86_64/lib/newlib/newlib/libc/signal/_for_lib_signal/raise.o.depend: \
+ ../lib/newlib/newlib/libc/signal/raise.c ../include/deputy/nodeputy.h

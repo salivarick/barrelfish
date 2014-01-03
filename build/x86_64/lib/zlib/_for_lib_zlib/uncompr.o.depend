@@ -1,0 +1,3 @@
+x86_64/lib/zlib/_for_lib_zlib/uncompr.o \
+ x86_64/lib/zlib/_for_lib_zlib/uncompr.o.depend: ../lib/zlib/uncompr.c \
+ ../include/deputy/nodeputy.h ../include/zlib.h ../include/zconf.h

@@ -1,0 +1,20 @@
+x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/sha/sha1dgst.o \
+ x86_64/lib/openssl-1.0.0d/_for_lib_crypto/crypto/sha/sha1dgst.o.depend: \
+ ../lib/openssl-1.0.0d/crypto/sha/sha1dgst.c ../include/deputy/nodeputy.h \
+ ../include/openssl/opensslconf.h ../include/openssl/opensslv.h \
+ ../lib/openssl-1.0.0d/crypto/sha/sha_locl.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/c/stddef.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stdarg.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../lib/newlib/newlib/libc/include/string.h \
+ ../lib/newlib/newlib/libc/include/sys/string.h ../include/openssl/sha.h \
+ ../include/openssl/e_os2.h ../include/openssl/local/md32_common.h

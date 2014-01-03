@@ -1,0 +1,4 @@
+x86_64/usr/skb/eclipse_kernel/src/_for_lib_dummies/dummy_upcalls.o \
+ x86_64/usr/skb/eclipse_kernel/src/_for_lib_dummies/dummy_upcalls.o.depend: \
+ ../usr/skb/eclipse_kernel/src/dummy_upcalls.c \
+ ../include/deputy/nodeputy.h

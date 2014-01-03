@@ -1,0 +1,24 @@
+x86_64/usr/rcce/bt/_for_app_rcce_bt_A36/copy_faces.o \
+ x86_64/usr/rcce/bt/_for_app_rcce_bt_A36/copy_faces.o.depend: \
+ ../usr/rcce/bt/copy_faces.c ../include/deputy/nodeputy.h \
+ ../usr/rcce/bt/header.h ../usr/rcce/bt/npbparams.h \
+ ../usr/rcce/bt/npbparams.h.A.36 ../include/rcce/RCCE.h \
+ ../lib/newlib/newlib/libc/include/stdlib.h \
+ ../lib/newlib/newlib/libc/include/machine/ieeefp.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h \
+ ../lib/newlib/newlib/libc/include/newlib.h \
+ ../lib/newlib/newlib/libc/include/sys/config.h \
+ ../lib/newlib/newlib/libc/include/sys/features.h ../include/c/stddef.h \
+ ../lib/newlib/newlib/libc/include/sys/reent.h \
+ ../lib/newlib/newlib/libc/include/_ansi.h ../include/sys/_types.h \
+ ../lib/newlib/newlib/libc/include/stdint.h ../include/c/stdarg.h \
+ ../lib/newlib/newlib/libc/include/sys/lock.h \
+ ../lib/newlib/newlib/libc/include/machine/stdlib.h \
+ ../lib/newlib/newlib/libc/include/alloca.h \
+ ../lib/newlib/newlib/libc/include/stdio.h ../include/sys/types.h \
+ ../include/sys/cdefs.h ../include/barrelfish/types.h \
+ ../include/barrelfish_kpi/types.h \
+ ../lib/newlib/newlib/libc/include/inttypes.h \
+ ../include/barrelfish/static_assert.h \
+ ../lib/newlib/newlib/libc/include/sys/stdio.h ../usr/rcce/bt/common.h \
+ ../usr/rcce/bt/mpinpb.h

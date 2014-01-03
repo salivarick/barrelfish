@@ -1,0 +1,7 @@
+x86_64/tools/elver/_for_elver/lib.o \
+ x86_64/tools/elver/_for_elver/lib.o.depend: ../tools/elver/lib.c \
+ ../include/deputy/nodeputy.h ../include/oldc/assert.h \
+ ../include/oldc/stdio.h ../include/c/stddef.h ../include/c/stdarg.h \
+ ../include/oldc/string.h ../include/oldc/stdint.h ../include/limits.h \
+ ../include/sys/cdefs.h ../include/arch/x86_32/machine/_limits.h \
+ ../include/arch/x86_32/arch/stdint.h
